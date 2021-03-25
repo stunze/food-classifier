@@ -1,0 +1,1 @@
+"Basic food classification algorithm." 
